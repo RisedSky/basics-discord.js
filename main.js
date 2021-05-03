@@ -10,7 +10,7 @@ client.once('ready' , () => {
 console.log('online')
 })
 
-// this mean if the command does not start with prefix or it was from a bot he will return
+// check if the command does not start with prefix or it was from a Bot
 client.on('message' , message => {
 if(!message.content.startWith(prefix) || message.author.bot) return; 
 })
@@ -21,7 +21,7 @@ const command = args.shift().toLowerCase();
 // create a command
 if (command === 'ping'){
 massage.channel.send('pong');
-}
+} 
 
 // your bot token 
 client.login("");
