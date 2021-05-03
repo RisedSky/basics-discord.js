@@ -2,7 +2,8 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const prefix = 'put here your bot prefix';
+// your bot prefix
+const prefix = '';
 
 client.once('ready' , () => {
 console.log('online')
