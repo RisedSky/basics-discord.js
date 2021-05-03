@@ -1,4 +1,5 @@
-const Discord = require('discord.js');
+// install this package in your terminal `npm i discord.js`
+const Discord = require('discord.js'); 
 
 const client = new Discord.Client();
 
