@@ -17,6 +17,7 @@ if(!message.content.startWith(prefix) || message.author.bot) return;
 const args = massage.content.slice(prefix.length)split(/ +/);
 const command = args.shift().toLowerCase();
 
+// create a command
 if (command === 'ping'){
 massage.channel.send('pong');
 }
