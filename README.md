@@ -1,5 +1,5 @@
-### __helper-discord.js__
-this repo is for the discord.js starter it may help you if you are new in js
+### __about this repo__
+this repo is for the discord.js starter it may help you if you are new in discord.js
 
 
 # how to get package.json?
