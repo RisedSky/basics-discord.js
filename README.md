@@ -3,7 +3,7 @@ this repo is for the discord.js starter it may help you if you are new in discor
 
 
 # how to get package.json?
-1: download node.js in your 
+1: download node.js in your pc
 
 2: run this in your cmd `npm init` then `npm install` 
 
