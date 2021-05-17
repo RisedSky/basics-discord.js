@@ -23,5 +23,5 @@ if (command === 'ping'){
 massage.channel.send('pong');
 } 
 
-// your bot token 
+// your bot token inside ("")
 client.login("");
